@@ -358,7 +358,7 @@ Authorization: {{token}}
 
 If you have any questions, please contact technical support:
 - 📧 Email: support@gamesdrop.io
-- 💬 Telegram: @gigoryan34
+- 💬 Telegram: @igoryan34
 
 ### Error Handling Guidelines
 
